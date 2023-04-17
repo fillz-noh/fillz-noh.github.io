@@ -30,7 +30,7 @@ twitter_username: fillz_noh
 github_username:  fillz-noh
 
 # Build settings
-theme: jekyll-bear-theme
+theme: minima
 plugins:
   - jekyll-feed
 

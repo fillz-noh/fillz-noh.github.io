@@ -9,6 +9,8 @@ FiLLzのポートフォリオです。
 
 ## About me
 
+![Yusuke WADA](./favicons/android-chrome-192x192.png)
+
 
 
 

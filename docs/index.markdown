@@ -5,4 +5,10 @@
 layout: page
 ---
 
-和田テスト
+# ポートフォリオ
+
+FiLLzのポートフォリオです。
+
+## 資格
+* [認定スクラムマスター (Certified ScrumMaster)](https://bcert.me/bc/html/show-badge.html?b=uluklbtx)
+* [AWS認定ソリューションアーキテクト - プロフェッショナル (AWS Certified Solutions Architect - Professional)](https://www.credly.com/users/yusuke-wada/badges)

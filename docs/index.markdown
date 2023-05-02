@@ -4,7 +4,7 @@
 
 layout: page
 image: 
-  path: https://fillz-noh.github.io/favicons/android-chrome-192x192.png
+  path: https://fillz-noh.github.io/favicons/android-chrome-512x512.png
 ---
 
 FiLLzのポートフォリオです。

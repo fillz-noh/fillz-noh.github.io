@@ -23,3 +23,8 @@ FiLLzのポートフォリオです。
 * 情報セキュリティマネジメント(IPA SG)
 
 # アウトプット
+
+* [アドベントカレンダー駆動ふりかえりをやるには \| 株式会社リアズ](https://reas.jp/blog_engineer/9957/)
+* [使えるアイスブレイク6選&アドベントカレンダー始まりました！ \| 株式会社リアズ](https://reas.jp/blog_engineer/8788/)
+* [Regional Scrum Gathering Tokyo 2019に参加しました。今年は学びほぐして成長する！ \| 株式会社リアズ](https://reas.jp/blog_engineer/7235/)
+* [社内勉強会「なるほど会」はじめました \| 株式会社リアズ](https://reas.jp/blog_engineer/3895/)

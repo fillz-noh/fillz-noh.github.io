@@ -11,13 +11,43 @@ FiLLzのポートフォリオです。
 
 ## About me
 
-![Yusuke WADA](./favicons/android-chrome-192x192.png)
+![WADA](./favicons/android-chrome-192x192.png)
+
+2008年よりライブチャット運営企業にてサイト運営・ディレクション、2015年より社内開発の進行管理を経て、2017年よりエンジニアセクションのリーダー 兼 社内情報システム管理者（情シス） 兼 AWSインフラ管理をやっています。
+
+興味の中心は、スクラム・情シス・AWSの3つになります。
 
 ## 職務経歴
+
+## 導入/管理運用経験のあるITサービス
+
+* Slack proプラン
+* Google Workspace Enterprise Plus
+  * Idpとしても活用中
+* Zoom ビジネスプラン
+  * ジャストインタイムプロビジョニング
+* 1Password Businessプラン
+  * SCIM Bridgeサーバによる自動プロビジョニング実施
+* JIRA
+* Confluence
+* Bitbucket
+* Atlassian access
+  * Google Workspaceとの連携による自動プロビジョニング実施
+* Netskope NG SWG Professional 
+* Microsoft 365 Apps for business
+  * オフィス利用のみ
+* Kibela 
+* Mailgun 導入・管理
+* BrowserStack 導入
+* Sentry
+* Zeplin
+* Newrelic
+* Datadog
 
 
 
 ## 資格・認定
+
 * [認定スクラムマスター (Certified ScrumMaster)](https://bcert.me/suluklbtx)
 * [AWS認定ソリューションアーキテクト - プロフェッショナル (AWS Certified Solutions Architect - Professional)](https://www.credly.com/users/yusuke-wada/badges)
 * 情報セキュリティマネジメント試験(IPA SG)
@@ -35,18 +65,18 @@ FiLLzのポートフォリオです。
 
 ### 会社ブログ
 
-* [アドベントカレンダー駆動ふりかえりをやるには \| 株式会社リアズ](https://reas.jp/blog_engineer/9957/)
-* [使えるアイスブレイク6選&アドベントカレンダー始まりました！ \| 株式会社リアズ](https://reas.jp/blog_engineer/8788/)
-* [Regional Scrum Gathering Tokyo 2019に参加しました。今年は学びほぐして成長する！ \| 株式会社リアズ](https://reas.jp/blog_engineer/7235/)
-* [社内勉強会「なるほど会」はじめました \| 株式会社リアズ](https://reas.jp/blog_engineer/3895/)
+* [アドベントカレンダー駆動ふりかえりをやるには](https://reas.jp/blog_engineer/9957/)
+* [使えるアイスブレイク6選&アドベントカレンダー始まりました！](https://reas.jp/blog_engineer/8788/)
+* [Regional Scrum Gathering Tokyo 2019に参加しました。今年は学びほぐして成長する！](https://reas.jp/blog_engineer/7235/)
+* [社内勉強会「なるほど会」はじめました](https://reas.jp/blog_engineer/3895/)
 
 ### 発表・登壇
 
-* [Scrum Boot Camp OSAKA in May 2019 \- connpass](https://scrumdo-kansai.connpass.com/event/127514/) 「ふりかえり」ワークショップ担当
-* [Scrum Boot Camp OSAKA in June 2018 \- connpass](https://scrumdo-kansai.connpass.com/event/89594/) 「アジャイル概要」講義担当
-* [にしなかバレー Tech Night Vol\.1　～ 隣のベンチャーの開発手法 ～ \- connpass](https://nishinaka-valley.connpass.com/event/57626/) 「レガシーサービス
+* [Scrum Boot Camp OSAKA in May 2019](https://scrumdo-kansai.connpass.com/event/127514/) 「ふりかえり」ワークショップ担当
+* [Scrum Boot Camp OSAKA in June 2018](https://scrumdo-kansai.connpass.com/event/89594/) 「アジャイル概要」講義担当
+* [にしなかバレー Tech Night Vol\.1 ～ 隣のベンチャーの開発手法 ～](https://nishinaka-valley.connpass.com/event/57626/) 「レガシーサービス
   のアジャイル開発・チーム開発への挑戦」発表
-* ["個人のタスクマネジメント"のコツや悩みを話す場 \- DevLOVE関西 \| Doorkeeper](https://devlove-kansai.doorkeeper.jp/events/71880) 「面倒くさがりが継
+* ["個人のタスクマネジメント"のコツや悩みを話す場](https://devlove-kansai.doorkeeper.jp/events/71880) 「面倒くさがりが継
   続できるタスク管理」発表
 
 ### 運営

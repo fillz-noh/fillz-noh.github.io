@@ -13,32 +13,32 @@ FiLLzのポートフォリオです。
 
 ![WADA](./favicons/android-chrome-192x192.png)
 
-2008年よりライブチャット運営企業にてサイト運営・ディレクション、2015年より社内開発の進行管理を経て、2017年よりエンジニアセクションのリーダー 兼 社内情報システム管理者（情シス） 兼 AWSインフラ管理をやっています。
-
-興味の中心は、スクラム・情シス・AWSの3つになります。
+* 2008年より自社サービス運営・ディレクション、2015年より社内開発の進行管理を経て、2017年よりエンジニアセクションのリーダー
+* 兼 社内情報システム管理者（情シス） 
+* 兼 AWSインフラ管理
+* 大阪府在住、3歳と1歳の男の子の父です。
+* 興味の中心は、スクラム・情シス・AWSの3つになります。
 
 ## 職務経歴
+<!-- これまでの経歴 -->
+<!-- どこの会社でどんなサービスを作り、何名ぐらいのチームだったのか -->
+<!-- 社外での活動（OSS・副業・勉強会・書籍執筆等）もあれば -->
 
 ## 導入/管理運用経験のあるITサービス
 
 * Slack proプラン
 * Google Workspace Enterprise Plus
-  * Idpとしても活用中
 * Zoom ビジネスプラン
-  * ジャストインタイムプロビジョニング
 * 1Password Businessプラン
-  * SCIM Bridgeサーバによる自動プロビジョニング実施
 * JIRA
 * Confluence
 * Bitbucket
 * Atlassian access
-  * Google Workspaceとの連携による自動プロビジョニング実施
 * Netskope NG SWG Professional 
 * Microsoft 365 Apps for business
-  * オフィス利用のみ
 * Kibela 
-* Mailgun 導入・管理
-* BrowserStack 導入
+* Mailgun
+* BrowserStack
 * Sentry
 * Zeplin
 * Newrelic
@@ -60,7 +60,7 @@ FiLLzのポートフォリオです。
 * [GASで業務自動化した際によく使ったスニペットと踏み抜いたGASのバグ](https://zenn.dev/fillz_noh/articles/c6a3a504b0cefc)
 * [情シスチャレンジ2020](https://zenn.dev/fillz_noh/articles/4833e3f7c142f484d819)
 * [Simple Active Directoryのユーザー作成をWebコンソールで行う方法 \| by Yusuke WADA \| Medium](https://medium.com/@wada_70027/simple-active-directory%E3%81%AE%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E4%BD%9C%E6%88%90%E3%82%92web%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%E3%81%A7%E8%A1%8C%E3%81%86%E6%96%B9%E6%B3%95-2cfc143249be)
-* [AWS認定ソリューションアーキテクト\-アソシエイトを取得した\. AWS Certified Solutions Architect —… \| by Yusuke WADA \| Medium](https://medium.com/@wada_70027/aws%E8%AA%8D%E5%AE%9A%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%88%E3%82%92%E5%8F%96%E5%BE%97%E3%81%97%E3%81%9F-b228df04d954)
+* [AWS認定ソリューションアーキテクト\-アソシエイトを取得した \| by Yusuke WADA \| Medium](https://medium.com/@wada_70027/aws%E8%AA%8D%E5%AE%9A%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%88%E3%82%92%E5%8F%96%E5%BE%97%E3%81%97%E3%81%9F-b228df04d954)
 * [オフサイトミーティングをOSTでやってみた \- Yusuke WADA \- Medium](https://medium.com/@wada_70027/%E3%82%AA%E3%83%95%E3%82%B5%E3%82%A4%E3%83%88%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%92ost%E3%81%A7%E3%82%84%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F-c3d61474d26d)
 
 ### 会社ブログ

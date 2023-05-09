@@ -39,7 +39,7 @@ plugins:
 minima:
   social_links:
     - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
-    - platform: zenn.svg  # same as SVG filename.
+    - platform: zenn  # same as SVG filename.
       user_url: "https://zenn.dev/fillz_noh"  # URL of profile page.
       title:  Zenn  # Optional. Text displayed on hovering over link.
 

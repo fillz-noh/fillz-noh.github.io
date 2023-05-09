@@ -36,6 +36,12 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+minima:
+  social_links:
+    - platform: zenn  # same as SVG filename.
+      user_url: "https://zenn.dev/fillz_noh"  # URL of profile page.
+      title:  Zenn  # Optional. Text displayed on hovering over link.
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

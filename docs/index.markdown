@@ -21,11 +21,19 @@ FiLLzのポートフォリオです。
 
 ## 内発的動機・価値観
 
+[Moving Motivators \(CHAMPFROGS\): Motivation Game \- Management 3\.0](https://management30.com/practice/moving-motivators/)より。
+私の仕事あるいは会社に向けたモチベーションを重要視している順に挙げると以下になります。
+
 1. <img src="./moving_motivators_cards/moving-motivators_curiosity.png" width="250" alt="curiosity">
 2. <img src="./moving_motivators_cards/moving-motivators_relatedness.png" width="250" alt="relatedness">
 3. <img src="./moving_motivators_cards/moving-motivators_mastery.png" width="250" alt="mastery">
-4. ![acceptance](./moving_motivators_cards/moving-motivators_acceptance.png)
-5. ![goal](./moving_motivators_cards/moving-motivators_goal.png)
+4. <img src="./moving_motivators_cards/moving-motivators_acceptance.png" width="250" alt="acceptance">
+5. <img src="./moving_motivators_cards/moving-motivators_goal.png" width="250" alt="goal">
+6. <img src="./moving_motivators_cards/moving-motivators_freedom.png" width="250" alt="freedom">
+7. <img src="./moving_motivators_cards/moving-motivators_power.png" width="250" alt="power">
+8. <img src="./moving_motivators_cards/moving-motivators_honor.png" width="250" alt="honor">
+9. <img src="./moving_motivators_cards/moving-motivators_order.png" width="250" alt="order">
+10. <img src="./moving_motivators_cards/moving-motivators_status.png" width="250" alt="status">
 
 <!-- これまでの経歴 -->
 <!-- どこの会社でどんなサービスを作り、何名ぐらいのチームだったのか -->

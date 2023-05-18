@@ -21,9 +21,11 @@ FiLLzのポートフォリオです。
 
 ## 内発的動機・価値観
 
-1. ![curiosity](./moving_motivators_cards/moving-motivators_curiosity.png)
-2. ![relatedness](./moving_motivators_cards/moving-motivators_relatedness.png)
-3. 
+1. <img src="./moving_motivators_cards/moving-motivators_curiosity.png" width="250" alt="curiosity">
+2. <img src="./moving_motivators_cards/moving-motivators_relatedness.png" width="250" alt="relatedness">
+3. <img src="./moving_motivators_cards/moving-motivators_mastery.png" width="250" alt="mastery">
+4. ![acceptance](./moving_motivators_cards/moving-motivators_acceptance.png)
+5. ![goal](./moving_motivators_cards/moving-motivators_goal.png)
 
 <!-- これまでの経歴 -->
 <!-- どこの会社でどんなサービスを作り、何名ぐらいのチームだったのか -->

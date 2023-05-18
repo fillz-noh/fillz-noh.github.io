@@ -21,7 +21,7 @@ FiLLzのポートフォリオです。
 
 ## 強み
 
-* 組織を見渡して手薄な部分をカバーするようにスキルを取得してきた
+* 組織を見渡して手薄な部分をカバーするようにスキルを模索・取得してきた経験
 * スクラム開発・アジャイルな考え方の適用
   * 価値のデリバリー中心の考え方
   * 不確実性・複雑性へのアプローチ
@@ -33,7 +33,7 @@ FiLLzのポートフォリオです。
 
 ## 弱み
 
-* 開発に携わってきてはいるが、プログラミング・アプリケーション実装のスキル経験がない。
+* 長年開発に携わってきてはいるが、プログラミング・アプリケーション実装のスキル経験があまりない。
 * 兼任であるが故にスキル１つ１つについて深みが足りない
 
 ## 内発的動機・価値観
@@ -51,7 +51,7 @@ FiLLzのポートフォリオです。
 9. <img src="./moving_motivators_cards/moving-motivators_order.png" width="250" alt="order">
 10. <img src="./moving_motivators_cards/moving-motivators_status.png" width="250" alt="status">
 
-### 参考
+#### 参考
 * [Moving Motivators \(CHAMPFROGS\): Motivation Game \- Management 3\.0](https://management30.com/practice/moving-motivators/)
 * [チームメンバーのやる気スイッチ、内発的動機、モチベーションを見える化するカード「ムービング・モチベーターズ」とは？](https://nuworks.jp/ja/2016/10/26/moving-motivators/)
 

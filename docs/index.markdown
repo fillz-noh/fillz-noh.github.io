@@ -21,7 +21,6 @@ FiLLzのポートフォリオです。
 
 ## 内発的動機・価値観
 
-[Moving Motivators \(CHAMPFROGS\): Motivation Game \- Management 3\.0](https://management30.com/practice/moving-motivators/)より。
 私の仕事あるいは会社に向けたモチベーションを重要視している順に挙げると以下になります。
 
 1. <img src="./moving_motivators_cards/moving-motivators_curiosity.png" width="250" alt="curiosity">
@@ -34,6 +33,10 @@ FiLLzのポートフォリオです。
 8. <img src="./moving_motivators_cards/moving-motivators_honor.png" width="250" alt="honor">
 9. <img src="./moving_motivators_cards/moving-motivators_order.png" width="250" alt="order">
 10. <img src="./moving_motivators_cards/moving-motivators_status.png" width="250" alt="status">
+
+### 参考
+* [Moving Motivators \(CHAMPFROGS\): Motivation Game \- Management 3\.0](https://management30.com/practice/moving-motivators/)より。
+* [チームメンバーのやる気スイッチ、内発的動機、モチベーションを見える化するカード「ムービング・モチベーターズ」とは？ \|](https://nuworks.jp/ja/2016/10/26/moving-motivators/)
 
 <!-- これまでの経歴 -->
 <!-- どこの会社でどんなサービスを作り、何名ぐらいのチームだったのか -->

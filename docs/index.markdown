@@ -19,7 +19,12 @@ FiLLzのポートフォリオです。
 * 大阪府在住、3歳と1歳の男の子の父です。
 * 興味の中心は、スクラム・情シス・AWSの3つになります。
 
-## 職務経歴
+## 内発的動機・価値観
+
+1. ![curiosity](./moving_motivators_cards/moving-motivators_curiosity.png)
+2. ![relatedness](./moving_motivators_cards/moving-motivators_relatedness.png)
+3. 
+
 <!-- これまでの経歴 -->
 <!-- どこの会社でどんなサービスを作り、何名ぐらいのチームだったのか -->
 <!-- 社外での活動（OSS・副業・勉強会・書籍執筆等）もあれば -->
